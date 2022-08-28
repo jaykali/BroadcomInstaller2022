@@ -8,9 +8,10 @@ echo " \______   \_______  _________     __| _/____  ____   _____               
 echo "  |    |  _/\_  __ \/  _ \__  \   / __ |/ ___\/  _ \ /     \                        "
 echo "  |    |   \ |  | \(  <_> ) __ \_/ /_/ \  \__(  <_> )  Y Y  \                       "
 echo "  |______  / |__|   \____(____  /\____ |\___  >____/|__|_|  /                       "
-echo "         \/                   \/      \/    \/            \/  Installer Version 2017"
-echo "                                                                  By SSTec Tutorials"
-echo "#####################################################################################"
+echo "         \/                   \/      \/    \/            \/  Installer Version 2022"
+echo "                                               Originally Created By SSTec Tutorials"
+echo "                                                                 Modified by JayKali"
+echo "####################################################################################"
 sleep 2
 
 PS3='Please enter your choice: '
