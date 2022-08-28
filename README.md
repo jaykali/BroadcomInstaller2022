@@ -7,13 +7,20 @@ The software is designed to connect to the Internet and adds a Windows Firewall 
 Download Broadcom Installer :   
 https://github.com/jaykali/BroadcomInstaller2022
 
-usage :   
-cd Desktop  git clone https://github.com/mehedihshakeel/BroadcomInstaller2022  
+```bash
+# Clone the repository 
+git clone https://github.com/jaykali/BroadcomInstaller2022
+
+# Enter into the directory
 cd BroadcomInstaller2022
-chmod +x ./Broadcom.sh  
-./Broadcom.sh
+
+# Make the scriipt executable
+chmod +x Broadcom.sh
+
+# Run the script
+bash maskphish.sh
+```
 
 1) Install Wifi Driver
 2) Show Commands
 3) Quit
-Please enter your choice: 
